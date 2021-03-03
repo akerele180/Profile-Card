@@ -107,12 +107,12 @@ section.stats {
 }
 @media screen and (max-width: 1039px) and (min-width: 900px) {
     .top {
-        top: -30%;
+        top: -25%;
     }
 }
 @media screen and (max-width: 899px) and (min-width: 767px) {
     .top {
-        top: -27%;
+        top: -9%;
     }
 }
 @media screen and (max-width: 766px) and (min-width: 375px) {
