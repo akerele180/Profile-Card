@@ -120,7 +120,7 @@ section.stats {
         top: -22%;
     }
 }
-@media screen and (max-width: 414px) {
+@media screen and (width: 414px) {
     body {
         height: 736px;
     }
