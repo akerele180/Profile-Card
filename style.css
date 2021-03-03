@@ -110,7 +110,7 @@ section.stats {
         top: -30%;
     }
 }
-@media screen and (max-width: 899px) and (min-width: 750px) {
+@media screen and (max-width: 899px) and (min-width: 767px) {
     .top {
         top: -27%;
     }
@@ -118,15 +118,5 @@ section.stats {
 @media screen and (max-width: 766px) and (min-width: 375px) {
     .top {
         top: -6%;
-    }
-}
-@media screen and (max-width: 749px) and (min-width: 900px) {
-    .top {
-        top: -22%;
-    }
-}
-@media screen and (width: 414px) {
-    body {
-        height: 736px;
     }
 }
